@@ -8,4 +8,4 @@ Microsoft Azure for Enterprise Lab-Advanced
 
 ![advanced-logo](https://user-images.githubusercontent.com/46337910/50867894-68a17000-13f0-11e9-9179-f48c8bd8d770.jpg)
 
-Last Updated : 2019.01.28
+Last Updated : 2019.01.29
